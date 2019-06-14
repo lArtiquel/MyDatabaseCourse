@@ -17,4 +17,10 @@ Information from my course of DBs
 
 6 laba: T-SQL programming. SETs SELECTs functions procedures inline functions of T-SQL.
 
-7 laba:
+7 laba: Coursors, triggers and transactions.
+
+Ekzamen: Includes a lot of tasks and materials to prepare to exam on DBs. Also i've created simple database and scripts to test my T-SQL knowledges. And yep, i've received 9 on DB's exam.
+
+tutorials: Includes tutorials and a very vast book on SQL.
+
+БД Лабораторный практикум.doc: main methoda.
